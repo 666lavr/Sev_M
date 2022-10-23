@@ -27,3 +27,13 @@
 
 ---
 [Ссылка на сайт почты](https://mail.ru)
+
+### Code block
+
+```
+white (index<size) do
+
+if (munbers[index]>max then
+max=numbers[index]
+index=index+1
+print(max)
