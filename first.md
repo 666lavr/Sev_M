@@ -2,9 +2,9 @@
 
 ## Menu
 
-1. Potions
-2. Chips
-3. Code block
+1. [Potions](#potions)
+2. [Chips](#chips)
+3. [Code block](#code-block)
 
 *Mysterious*
 
